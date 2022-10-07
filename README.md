@@ -9,7 +9,7 @@ En esta temporada, estamos creando un encode/decode bittorrent file.
 
 
 
-__usos__
+__usos del protocolo__
 
 Como ya sabrá como usuario de Linux, muchos desarrolladores de distribuciones de Linux eligen compartir su sistema operativo en forma de descarga de torrent. [mas referencias](https://linuxconfig.org/how-to-create-and-share-torrent-on-linux)
 
@@ -28,6 +28,7 @@ __b encode__
 
 Bencode (pronunciado como Bee-encode ) es la codificación utilizada por el sistema de intercambio de archivos entre pares BitTorrent para almacenar y transmitir datos poco estructurados. [mas referncia](https://en.wikipedia.org/wiki/Bencode)
 
+## solo realizamos una funcionalidad de lo que seria un client torrent
 
 ¿Para quién es este lab?
 
@@ -42,7 +43,7 @@ Parte 3: Conocer [encode/decode de valor texto](https://github.com/libialany/b_e
 
 Parte 4: Conocer [encode/decode de una estructura lista](https://github.com/libialany/b_encoder/blob/main/ls_encode_decode.py)
 
-Addional: Regex scripting para linux
+Addional: Regex scripting para linux[updating script](https://gist.github.com/yumminhuang/8b1502a49d8b20a6ae70)
 
 # Mas material
  🤷‍♂️ 
