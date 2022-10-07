@@ -26,7 +26,7 @@ Un client torrent necesita muchas funcionalidades ,por ejemplo:
 
 __b encode__
 
-Bencode (pronunciado como Bee-encode ) es la codificación utilizada por el sistema de intercambio de archivos entre pares BitTorrent para almacenar y transmitir datos poco estructurados. (mas referncia)[https://en.wikipedia.org/wiki/Bencode]
+Bencode (pronunciado como Bee-encode ) es la codificación utilizada por el sistema de intercambio de archivos entre pares BitTorrent para almacenar y transmitir datos poco estructurados. [mas referncia](https://en.wikipedia.org/wiki/Bencode)
 
 
 ¿Para quién es este lab?
@@ -36,9 +36,9 @@ Para personas nivel basico/medio
 # Tabla de contenido:
 
 Parte 1: Conocer el algoritmo 
-Parte 2: Conocer (encode/decode de valor entero)[]
-Parte 3: Conocer (encode/decode de valor texto)[]
-Parte 4: Conocer (encode/decode de una estructura lista)[]
+Parte 2: Conocer [encode/decode de valor entero](https://github.com/libialany/b_encoder/blob/main/int_encode_decode_.py)
+Parte 3: Conocer [encode/decode de valor texto](https://github.com/libialany/b_encoder/blob/main/str_encode_decode.py)
+Parte 4: Conocer [encode/decode de una estructura lista](https://github.com/libialany/b_encoder/blob/main/ls_encode_decode.py)
 Addional: Regex scripting para linux
 
 # Mas material
