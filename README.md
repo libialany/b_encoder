@@ -37,8 +37,11 @@ Para personas nivel basico/medio
 
 Parte 1: Conocer el algoritmo 
 Parte 2: Conocer [encode/decode de valor entero](https://github.com/libialany/b_encoder/blob/main/int_encode_decode_.py)
+
 Parte 3: Conocer [encode/decode de valor texto](https://github.com/libialany/b_encoder/blob/main/str_encode_decode.py)
+
 Parte 4: Conocer [encode/decode de una estructura lista](https://github.com/libialany/b_encoder/blob/main/ls_encode_decode.py)
+
 Addional: Regex scripting para linux
 
 # Mas material
