@@ -30,7 +30,7 @@ Bencode (pronunciado como Bee-encode ) es la codificación utilizada por el sist
 
 ## solo realizamos una funcionalidad de lo que seria un client torrent
 
-¿Para quién es este lab?
+# ¿Par=a quién es este lab?
 
 Para personas nivel basico/medio  
 
