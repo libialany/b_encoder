@@ -43,7 +43,20 @@ Parte 3: Conocer [encode/decode de valor texto](https://github.com/libialany/b_e
 
 Parte 4: Conocer [encode/decode de una estructura lista](https://github.com/libialany/b_encoder/blob/main/ls_encode_decode.py)
 
-Addional: Regex scripting para linux[updating script](https://gist.github.com/yumminhuang/8b1502a49d8b20a6ae70)
+
+## Run
+
+- python3  int_encode_decode_.py -v
+
+- python3  str_encode_decode.py -v
+
+- python3  ls_encode_decode.py -v 
+
+Una implementacion completa se puede encontrar en [utdemir](https://github.com/utdemir/bencoder).
+
+![image](https://user-images.githubusercontent.com/82403984/194634259-ea2e1f2b-26c1-4c13-a184-347d9bd6c8f0.png)
+
+
 
 # Mas material
  🤷‍♂️ 
